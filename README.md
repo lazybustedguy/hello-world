@@ -1,2 +1,5 @@
 # hello-world
-Just another repository! Given Example from the this site 
+
+This is my first try to use GITHUB. Just following instructions.
+
+
